@@ -1,0 +1,491 @@
+[
+  {
+    "word": "home",
+    "phonetic": "/(h)əʊm/",
+    "phonetics": [
+      {
+        "text": "/(h)əʊm/",
+        "audio": ""
+      },
+      {
+        "text": "/hoʊm/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/home-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=711130",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A dwelling.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "One’s native land; the place or country in which one dwells; the place where one’s ancestors dwell or dwelt.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The locality where a thing is usually found, or was first found, or where it is naturally abundant; habitat; seat.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "the home of the pine"
+          },
+          {
+            "definition": "A focus point.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "home base",
+          "abode",
+          "domicile",
+          "dwelling",
+          "house",
+          "residence",
+          "tenement"
+        ],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "(of animals) To return to its owner.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The dog homed."
+          },
+          {
+            "definition": "(always with \"in on\") To seek or aim for something.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "The missile was able to home in on the target."
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Of or pertaining to one’s dwelling or country; domestic; not foreign; as home manufactures; home comforts.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(except in phrases) That strikes home; direct, pointed.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Personal, intimate.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Relating to the home team (the team at whose venue a game is played).",
+            "synonyms": [],
+            "antonyms": [
+              "away",
+              "road",
+              "visitor"
+            ],
+            "example": "the home end, home advantage, home supporters"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "away",
+          "road",
+          "visitor"
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "To one's home",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "At or in one's place of residence or one's customary or official location; at home",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "Everyone's gone to watch the game; there's nobody home."
+          },
+          {
+            "definition": "To a full and intimate degree; to the heart of the matter; fully, directly.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Into the goal",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Into the right, proper or stowed position",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "sails sheeted home"
+          }
+        ],
+        "synonyms": [
+          "homeward"
+        ],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/home",
+      "https://en.wiktionary.org/wiki/home%20directory"
+    ]
+  },
+  {
+    "word": "stone",
+    "phonetic": "/stɐʉn/",
+    "phonetics": [
+      {
+        "text": "/stɐʉn/",
+        "audio": ""
+      },
+      {
+        "text": "/stəʊn/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stone-uk.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=77899690",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/stoʊn/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stone-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1194273",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A hard earthen substance that can form large rocks.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A small piece of stone, a pebble.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A gemstone, a jewel, especially a diamond.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(plural: stone) A unit of mass equal to 14 pounds. Used to measure the weights of people, animals, cheese, wool, etc. 1 stone ≈ 6.3503 kilograms",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "The central part of some fruits, particularly drupes; consisting of the seed and a hard endocarp layer.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "a peach stone"
+          },
+          {
+            "definition": "A hard, stone-like deposit.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "kidney stone"
+          },
+          {
+            "definition": "A playing piece made of any hard material, used in various board games such as backgammon, and go.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A dull light grey or beige, like that of some stones.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A 42-pound, precisely shaped piece of granite with a handle attached, which is bowled down the ice.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A monument to the dead; a gravestone or tombstone.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A mirror, or its glass.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A testicle of an animal.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A stand or table with a smooth, flat top of stone, commonly marble, on which to arrange the pages of a book, newspaper, etc. before printing; also called imposing stone.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "rock",
+          "calculus",
+          "pip",
+          "pit",
+          "pebble",
+          "rock"
+        ],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To pelt with stones, especially to kill by pelting with stones.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "She got stoned to death after they found her."
+          },
+          {
+            "definition": "To wall with stones.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To remove a stone from (fruit etc.).",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To form a stone during growth, with reference to fruit etc.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To intoxicate, especially with narcotics. (Usually in passive)",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To do nothing, to stare blankly into space and not pay attention when relaxing or when bored.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To lap with an abrasive stone to remove surface irregularities.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "chill",
+          "chill out",
+          "chillax",
+          "hang out",
+          "rilek",
+          "daydream",
+          "veg out",
+          "lapidate"
+        ],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Constructed of stone.",
+            "synonyms": [
+              "stonen"
+            ],
+            "antonyms": [],
+            "example": "stone walls"
+          },
+          {
+            "definition": "Having the appearance of stone.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "stone pot"
+          },
+          {
+            "definition": "Of a dull light grey or beige, like that of some stones.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Used as an intensifier.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "She is one stone fox."
+          },
+          {
+            "definition": "Willing to give sexual pleasure but not to receive it.",
+            "synonyms": [],
+            "antonyms": [
+              "pillow princess"
+            ],
+            "example": "stone butch; stone femme"
+          }
+        ],
+        "synonyms": [
+          "stonen"
+        ],
+        "antonyms": [
+          "pillow princess"
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "As a stone (used with following adjective).",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "My father is stone deaf. This soup is stone cold."
+          },
+          {
+            "definition": "Absolutely, completely (used with following adjectives).",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "I said the medication made my vision temporarily blurry, it did not make me stone blind."
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/stone"
+    ]
+  },
+  {
+    "word": "space",
+    "phonetic": "/speɪs/",
+    "phonetics": [
+      {
+        "text": "/speɪs/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/space-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1157899",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "(heading) Of time.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(heading) Unlimited or generalized extent, physical or otherwise.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "(heading) A bounded or specific extent, physical or otherwise.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "outer space",
+          "place",
+          "spot",
+          "volume",
+          "break",
+          "gap",
+          "leisure time",
+          "spare time",
+          "blank",
+          "gap",
+          "whitespace",
+          "volume",
+          "quad",
+          "quadrat",
+          "ether",
+          "room",
+          "volume",
+          "duration",
+          "span",
+          "spell",
+          "while"
+        ],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To roam, walk, wander.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To set some distance apart.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To insert or utilise spaces in a written text.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To eject into outer space, usually without a space suit.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To travel into and through outer space.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/space"
+    ]
+  }
+]
