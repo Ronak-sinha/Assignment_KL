@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Marvel",
+        "id": "01",
+        "type": "Admin",
+        "createdBy": "Admin",
+        "lastAccessedTime": "2023-07-01 10:30 AM",
+        "contactNo": "123456789",
+        "emailId": "Admin01@marvel.com"
+    },
+    {
+        "name": "Ronak",
+        "id": "01",
+        "type": "User",
+        "createdBy": "user01",
+        "lastAccessedTime": "2023-07-02 02:00 PM",
+        "contactNo": "123456789",
+        "emailId": "User01@marvel.com"
+    },
+    {
+        "name": "Iron Man",
+        "id": "02",
+        "type": "User",
+        "createdBy": "user02",
+        "lastAccessedTime": "2023-07-03 03:45 PM",
+        "contactNo": "123456789",
+        "emailId": "User02@marvel.com"
+    },
+    {
+        "name": "Hulk",
+        "id": "03",
+        "type": "User",
+        "createdBy":"user03",
+        "lastAccessedTime": "2023-07-03 04:05 PM",
+        "contactNo": "123456789",
+        "emailId": "User03@marvel.com"
+    }   
+]

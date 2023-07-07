@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Product List</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div class="product-container">
+        <div class="container">
+            <div class="product-card" onclick="showModal(1)">
+                <img class="product-image" src="assert/products_images/product1.png" alt="Product 1">
+                <h3>Product 1</h3>
+                <p class="product-price">$10</p>
+                <button onclick="addToCart('Product 1')">Buy</button>
+            </div>
+            <div class="product-card" onclick="showModal(2)">
+                <img class="product-image" src="assert/products_images/product2.png" alt="Product 2">
+                <h3>Product 2</h3>
+                <p class="product-price">$15</p>
+                <button onclick="addToCart('Product 2')">Buy</button>
+            </div>
+            <div class="product-card" onclick="showModal(3)">
+                <img class="product-image" src="assert/products_images/product3.jpg" alt="Product 3">
+                <h3>Product 3</h3>
+                <p class="product-price">$20</p>
+                <button onclick="addToCart('Product 3')">Buy</button>
+            </div>
+            <div class="product-card" onclick="showModal(4)">
+                <img class="product-image" src="assert/products_images/product4.png" alt="Product 4">
+                <h3>Product 4</h3>
+                <p class="product-price">$25</p>
+                <button onclick="addToCart('Product 4')">Buy</button>
+            </div>
+            <div class="product-card" onclick="showModal(5)">
+                <img class="product-image" src="assert/products_images/product5.png" alt="Product 5">
+                <h3>Product 5</h3>
+                <p class="product-price">$30</p>
+                <button onclick="addToCart('Product 5')">Buy</button>
+            </div>
+            <div class="product-card" onclick="showModal(6)">
+                <img class="product-image" src="assert/products_images/product6.png" alt="Product 6">
+                <h3>Product 6</h3>
+                <p class="product-price">$35</p>
+                <button onclick="addToCart('Product 6')">Buy</button>
+            </div>
+            <div class="product-card" onclick="showModal(7)">
+                <img class="product-image" src="assert/products_images/product7.png" alt="Product 7">
+                <h3>Product 7</h3>
+                <p class="product-price">$40</p>
+                <button onclick="addToCart('Product 7')">Buy</button>
+            </div>
+            <div class="product-card" onclick="showModal(8)">
+                <img class="product-image" src="assert/products_images/product8.png" alt="Product 8">
+                <h3>Product 8</h3>
+                <p class="product-price">$45</p>
+                <button onclick="addToCart('Product 8')">Buy</button>
+            </div>
+            <div class="product-card" onclick="showModal(9)">
+                <img class="product-image" src="assert/products_images/product9.png" alt="Product 9">
+                <h3>Product 9</h3>
+                <p class="product-price">$50</p>
+                <button onclick="addToCart('Product 9')">Buy</button>
+            </div>
+            <div class="product-card" onclick="showModal(10)">
+                <img class="product-image" src="assert/products_images/product10.png" alt="Product 10">
+                <h3>Product 10</h3>
+                <p class="product-price">$55</p>
+                <button onclick="addToCart('Product 10')">Buy</button>
+            </div>
+        </div>
+        <div class="cart">
+            <h2>Cart</h2>
+            <div id="cart-items"></div>
+        </div>
+    </div>
+    <div id="product-modal" style="display: none;">
+        <h2 id="product-modal-title"></h2>
+        <p id="product-modal-description"></p>
+        <p id="product-modal-price"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
